@@ -15,7 +15,7 @@
 - The ratio of tokens for Japanese from the same sentence in English is about 1:2. This is based on the sample of 150,000 sentences translated between English and Japanese. Even though Japanese would have fewer characters, the tokens for the same sentence is almost always more than English.
 
 
-![Japanese and English token ratio](images/results.png)
+![Japanese and English token ratio](results.png)
 
 ## License
 
