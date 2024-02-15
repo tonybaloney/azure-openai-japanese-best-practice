@@ -1,0 +1,2676 @@
+{
+	"11": {
+		"query": "\u6d77\u5e95\u30b1\u30fc\u30d6\u30eb\u304c\u521d\u3081\u3066\u7d50\u3070\u308c\u305f\u306e\u306f\u3069\u3053\uff1f",
+		"positive_passages": [
+			"347109#15"
+		],
+		"negative_passages": [
+			"347109#23",
+			"2517469#2",
+			"347109#25",
+			"347109#11"
+		]
+	},
+	"17": {
+		"query": "\u6885\u5e72\u3057\u306e\u767a\u7965\u306f\u3069\u3053",
+		"positive_passages": [
+			"27277#8"
+		],
+		"negative_passages": [
+			"27277#17",
+			"27277#9",
+			"27277#13",
+			"27277#18"
+		]
+	},
+	"18": {
+		"query": "\u30cb\u30e5\u30fc\u30e8\u30fc\u30af\u5e02\u306e\u9762\u7a4d\u306f\uff1f",
+		"positive_passages": [
+			"507175#24"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"32": {
+		"query": "\u672b\u68a2\u795e\u7d4c\u3068\u306f\u3069\u3053\u306b\u3042\u308a\u307e\u3059\u304b\uff1f",
+		"positive_passages": [
+			"869375#0"
+		],
+		"negative_passages": [
+			"869375#1",
+			"866264#0"
+		]
+	},
+	"37": {
+		"query": "\u65e5\u672c\u306e\u30a2\u30a4\u30cc\u8a9e\u3092\u8a71\u305b\u308b\u4eba\u306f\u3044\u307e\u3059\u304b\uff1f",
+		"positive_passages": [
+			"293501#44"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"55": {
+		"query": "\u300e\u30dd\u30b1\u30c3\u30c8\u30e2\u30f3\u30b9\u30bf\u30fc\u300f\u304c\u30a2\u30cb\u30e1\u5316\u3055\u308c\u653e\u9001\u3055\u308c\u305f\u306e\u306f\u3044\u3064",
+		"positive_passages": [
+			"183441#1"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"74": {
+		"query": "\u30c1\u30e3\u30fc\u30c8\u306e\u8a9e\u6e90\u306f\u306a\u3093\u3067\u3059\u304b\uff1f",
+		"positive_passages": [
+			"53378#1"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"85": {
+		"query": "\u30ed\u30b7\u30a2\u5e1d\u56fd\u3067\u30ed\u30de\u30ce\u30d5\u671d\u304c\u59cb\u307e\u308b\u306e\u306f\u4f55\u5e74\u304b\u3089\u3067\u3059\u304b\uff1f",
+		"positive_passages": [
+			"9502#0",
+			"9502#11",
+			"109#17"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"120": {
+		"query": "\u30ce\u30fc\u30b9\u30ab\u30ed\u30e9\u30a4\u30ca\u5dde\u6700\u5927\u306e\u90fd\u5e02\u306f\u3069\u3053\uff1f",
+		"positive_passages": [
+			"57058#0"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"126": {
+		"query": "\u533b\u5e2b\u514d\u8a31\u306e\u53d6\u5f97\u306b\u56fd\u5bb6\u8a66\u9a13\u3092\u53d7\u3051\u308b\u5fc5\u8981\u304c\u3042\u308b\uff1f",
+		"positive_passages": [
+			"28642#6"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"129": {
+		"query": "\u30b4\u30c3\u30c8\u30e9\u30f3\u30c9\u3068\u306f\u3069\u3053\u3067\u3059\u304b\uff1f",
+		"positive_passages": [
+			"26745#5"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"141": {
+		"query": "\u30b8\u30df\u30fc\u30fb\u30da\u30a4\u30b8 OBE\u306f\u3044\u3064\u751f\u307e\u308c\u305f",
+		"positive_passages": [
+			"34096#0"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"161": {
+		"query": "\u6b27\u5dde\u9023\u5408\u306b\u30c8\u30eb\u30b3\u306f\u52a0\u76df\u3057\u305f\uff1f",
+		"positive_passages": [
+			"3049#7"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"212": {
+		"query": "\uff2d\uff2c\uff22\u3067\u521d\u3081\u3066\u512a\u52dd\u3057\u305f\u7403\u56e3\u306f\u4f55",
+		"positive_passages": [
+			"1665807#5"
+		],
+		"negative_passages": [
+			"2686148#4"
+		]
+	},
+	"215": {
+		"query": "\u526f\u5927\u7d71\u9818\u3068\u306f\u3069\u306e\u3088\u3046\u306a\u5730\u4f4d\u3067\u3059\u304b\uff1f",
+		"positive_passages": [
+			"1649112#14"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"232": {
+		"query": "\u793e\u4f1a\u7684\u5e02\u5834\u7d4c\u6e08\u3092\u63d0\u5531\u3057\u305f\u306e\u306f\u8ab0",
+		"positive_passages": [
+			"2752890#31",
+			"2752890#37"
+		],
+		"negative_passages": [
+			"2752890#26",
+			"2752890#20",
+			"2752890#10",
+			"2752890#25"
+		]
+	},
+	"268": {
+		"query": "\u30c0\u30e0\u5efa\u8a2d\u306e\u76ee\u7684\u306f\u4f55\u3067\u3059\u304b\uff1f",
+		"positive_passages": [
+			"20149#5"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"303": {
+		"query": "\u300e\u65e5\u672c\u306e\u71b1\u3044\u65e5\u3005 \u8b00\u6bba\u30fb\u4e0b\u5c71\u4e8b\u4ef6\u300f\u306e\u76e3\u7763\u306f\u8ab0",
+		"positive_passages": [
+			"1121623#2"
+		],
+		"negative_passages": [
+			"1121623#0",
+			"1121623#3",
+			"1121623#13",
+			"1121623#1",
+			"1121623#4",
+			"1121623#28",
+			"1121623#20"
+		]
+	},
+	"304": {
+		"query": "\u6c5f\u6238\u5e55\u5e9c\u3092\u8208\u3057\u305f\u306e\u306f\u8ab0\uff1f",
+		"positive_passages": [
+			"130713#1"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"329": {
+		"query": "\u30ce\u30fc\u30c8\u30f3\u30fb\u30e2\u30fc\u30bf\u30fc\u30b5\u30a4\u30af\u30eb\u304c\u6700\u521d\u306b\u88fd\u9020\u3057\u305f\u88fd\u54c1\u306f\u4f55",
+		"positive_passages": [
+			"1261325#0",
+			"1261325#2"
+		],
+		"negative_passages": [
+			"1261325#1"
+		]
+	},
+	"338": {
+		"query": "\u30ef\u30b7\u30f3\u30c8\u30f3\u306f\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u306e\u9996\u90fd\uff1f",
+		"positive_passages": [
+			"641713#14",
+			"12494#6"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"342": {
+		"query": "\u30cf\u30ea\u30fc\u30fb\u30cf\u30fc\u30d0\u30fc\u30c8\u30fb\u30d5\u30ec\u30a4\u30b8\u30fc\u306e\u51fa\u8eab\u306f\u3069\u3053\uff1f",
+		"positive_passages": [
+			"2686148#0",
+			"2686148#1"
+		],
+		"negative_passages": [
+			"718320#1"
+		]
+	},
+	"386": {
+		"query": "\u300e\u65e5\u672c\u306e\u71b1\u3044\u65e5\u3005 \u8b00\u6bba\u30fb\u4e0b\u5c71\u4e8b\u4ef6\u300f\u306e\u811a\u672c\u62c5\u5f53\u306f\u8ab0",
+		"positive_passages": [
+			"1121623#1"
+		],
+		"negative_passages": [
+			"1121623#2",
+			"1121623#3",
+			"1121623#0",
+			"1121623#18",
+			"1121623#13",
+			"1121623#28",
+			"1121623#14",
+			"1121623#10",
+			"1121623#20"
+		]
+	},
+	"387": {
+		"query": "\u30d6\u30fc\u30bf\u30f3\u3067\u6c11\u4e3b\u653f\u6cbb\u306f\u884c\u308f\u308c\u3066\u3044\u308b\uff1f",
+		"positive_passages": [
+			"6374#16"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"394": {
+		"query": "\u7af6\u99ac\u304c\u65e5\u672c\u3067\u59cb\u307e\u3063\u305f\u306e\u306f\u3044\u3064",
+		"positive_passages": [
+			"498249#2"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"397": {
+		"query": "\u30e1\u30bd\u30dd\u30bf\u30df\u30a2\u306f\u3069\u3053\u306b\u3042\u308a\u307e\u3059\u304b\uff1f",
+		"positive_passages": [
+			"1406290#4"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"408": {
+		"query": "\u65e5\u7523\u306e\u30b4\u30fc\u30f3\u306f\u4f55\u306e\u7f6a\u3067\u6355\u307e\u3063\u305f\uff1f",
+		"positive_passages": [
+			"319401#15",
+			"319401#1"
+		],
+		"negative_passages": [
+			"319401#18",
+			"319401#10",
+			"319401#16"
+		]
+	},
+	"416": {
+		"query": "\u30a4\u30ae\u30ea\u30b9\u306b\u539f\u5b50\u529b\u767a\u96fb\u6240\u306f\u3042\u308b\uff1f",
+		"positive_passages": [
+			"2698298#0"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"438": {
+		"query": "\u5730\u7403\u4e0a\u306e\u6d77\u3067\u6700\u3082\u6df1\u3044\u3068\u3053\u308d\u306f\u3069\u3053\u306b\u3042\u308b\uff1f",
+		"positive_passages": [
+			"2237#12"
+		],
+		"negative_passages": [
+			"2237#16",
+			"2237#0"
+		]
+	},
+	"440": {
+		"query": "\u84b8\u6c17\u6a5f\u95a2\u306f\u3044\u3064\u304b\u3089\u4f7f\u308f\u308c\u59cb\u3081\u305f\uff1f",
+		"positive_passages": [
+			"10157#5"
+		],
+		"negative_passages": [
+			"10157#14"
+		]
+	},
+	"441": {
+		"query": "\u30ca\u30c1\u30b9\u30fb\u30c9\u30a4\u30c4\u306f\u6838\u5175\u5668\u306e\u958b\u767a\u3092\u3057\u305f\uff1f",
+		"positive_passages": [
+			"2192518#0"
+		],
+		"negative_passages": [
+			"15911#12",
+			"2192518#19"
+		]
+	},
+	"545": {
+		"query": "\u30a2\u30c8\u30e9\u30f3\u30bf\u306b\u672c\u793e\u3092\u7f6e\u3044\u3066\u3044\u308b\u822a\u7a7a\u4f1a\u793e\u306f\u306a\u3093\u3067\u3059\u304b\uff1f",
+		"positive_passages": [
+			"33148#1"
+		],
+		"negative_passages": [
+			"99839#82",
+			"3579642#0"
+		]
+	},
+	"552": {
+		"query": "IRT\u30db\u30ef\u30a4\u30c8\u30fb\u30d7\u30ec\u30fc\u30f3\u30ba\u30fb\u30ed\u30fc\u30c9\u7dda\u306f\u3044\u3064\u958b\u901a\u3057\u305f\uff1f",
+		"positive_passages": [
+			"3715922#13"
+		],
+		"negative_passages": [
+			"3715922#0",
+			"3715922#9",
+			"3715922#21",
+			"3715922#11",
+			"3715922#15",
+			"3715922#16",
+			"3715922#2"
+		]
+	},
+	"554": {
+		"query": "\u30f4\u30a1\u30b7\u30ea\u30fc\u30fb\u30ab\u30f3\u30c7\u30a3\u30f3\u30b9\u30ad\u30fc\u306e\u8077\u696d\u306f\u4f55\uff1f",
+		"positive_passages": [
+			"17586#0"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"575": {
+		"query": "\u30a8\u30f3\u30c9\u30bd\u30fc\u30e0\u306e\u5f79\u5272\u306f\u4f55\uff1f",
+		"positive_passages": [
+			"130905#0"
+		],
+		"negative_passages": [
+			"130905#1"
+		]
+	},
+	"576": {
+		"query": "\u300eRESISTANCE\u300f\u306f\u6226\u95d8\u30b2\u30fc\u30e0\u3067\u3059\u304b\uff1f",
+		"positive_passages": [
+			"3623503#0"
+		],
+		"negative_passages": [
+			"3622937#4",
+			"3622937#0",
+			"3623503#3"
+		]
+	},
+	"586": {
+		"query": "\u30de\u30ec\u30fc\u30b7\u30a2\u822a\u7a7a17\u4fbf\u6483\u589c\u4e8b\u4ef6\u306e\u751f\u5b58\u8005\u306f\u3044\u308b\u304b",
+		"positive_passages": [
+			"3025535#5"
+		],
+		"negative_passages": [
+			"3025535#0",
+			"3025535#16"
+		]
+	},
+	"591": {
+		"query": "\u5e73\u7530 \u4f50\u77e9\u306e\u51fa\u8eab\u306f\u3069\u3053\uff1f",
+		"positive_passages": [
+			"1977768#1"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"601": {
+		"query": "\u65e5\u672c\u5360\u9818\u7d71\u6cbb\u671f\u306e\u9023\u5408\u56fd\u8ecd\u6700\u9ad8\u53f8\u4ee4\u5b98\u7dcf\u53f8\u4ee4\u90e8\u306e\u7dcf\u7d71\u306f\u8ab0\u3067\u3059\u304b\uff1f",
+		"positive_passages": [
+			"1156222#3"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"606": {
+		"query": "\u540c\u4eba\u8a8c\u306b\u8457\u4f5c\u6a29\u306f\u3042\u308b\uff1f",
+		"positive_passages": [
+			"2591011#2"
+		],
+		"negative_passages": [
+			"2591011#3",
+			"2591011#7"
+		]
+	},
+	"630": {
+		"query": "\u30da\u30ca\u30f3\u5cf6\u306e\u5927\u304d\u3055\u306f\uff1f",
+		"positive_passages": [
+			"216702#1"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"671": {
+		"query": "\u5c0f\u7530\u6025\u96fb\u9244\u306f\u3044\u3064\u8a2d\u7acb\u3057\u305f",
+		"positive_passages": [
+			"3387#2"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"732": {
+		"query": "\u30da\u30eb\u30b7\u30e3\u7d68\u6bef\u306e\u8d77\u6e90\u306f\u3044\u3064\uff1f",
+		"positive_passages": [
+			"985294#0"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"758": {
+		"query": "\u30ed\u30b5\u30f3\u30bc\u30eb\u30b9\u30fb\u30a8\u30f3\u30bc\u30eb\u30b9\u306e\u521d\u4ee3\u76e3\u7763\u306f\u8ab0\uff1f",
+		"positive_passages": [
+			"2020271#2"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"761": {
+		"query": "\u300e\u92fc\u306e\u932c\u91d1\u8853\u5e2b\u300f\u3092\u63b2\u8f09\u3057\u305f\u6f2b\u753b\u8a8c\u306f\u4f55",
+		"positive_passages": [
+			"257875#0"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"772": {
+		"query": "\u5c3c\u6e2f\u4e8b\u4ef6\u3067\u65e5\u672c\u4eba\u306f\u7d04\u4f55\u4eba\u6bba\u3055\u308c\u305f\uff1f",
+		"positive_passages": [
+			"30428#0"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"773": {
+		"query": "\u6b89\u6559\u3068\u306f\u3069\u306e\u3088\u3046\u306a\u610f\u5473\u3067\u3059\u304b\uff1f",
+		"positive_passages": [
+			"27539#0"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"779": {
+		"query": "\u30b9\u30da\u30a4\u30f3\u304c\u30ad\u30e5\u30fc\u30d0\u306b\u5165\u690d\u3057\u305f\u306e\u306f\u3044\u3064\uff1f",
+		"positive_passages": [
+			"790785#1"
+		],
+		"negative_passages": [
+			"790785#4",
+			"790785#2"
+		]
+	},
+	"798": {
+		"query": "\u5b87\u7530\u65b0\u592a\u90ce\u306e\u51fa\u8eab\u306f\u3069\u3053",
+		"positive_passages": [
+			"732154#1"
+		],
+		"negative_passages": [
+			"732154#0",
+			"596900#1"
+		]
+	},
+	"801": {
+		"query": "\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u304c\u4e00\u822c\u306b\u666e\u53ca\u3057\u305f\u306e\u306f\u3044\u3064",
+		"positive_passages": [
+			"479153#7"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"806": {
+		"query": "\u4eac\u90fd\u5e1d\u56fd\u5927\u5b66\u306f\u3069\u3053\u306b\u3042\u3063\u305f\uff1f",
+		"positive_passages": [
+			"2471#7"
+		],
+		"negative_passages": [
+			"2471#8"
+		]
+	},
+	"808": {
+		"query": "\u6e80\u5dde\u56fd\u306f\u73fe\u5728\u306e\u3069\u3053\u306b\u5b58\u5728\u3057\u305f",
+		"positive_passages": [
+			"341717#0"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"812": {
+		"query": "\u30df\u30cf\u30a4\u30fb\u30a8\u30df\u30cd\u30b9\u30af\u304c\u6700\u521d\u306b\u767a\u8868\u3057\u305f\u4f5c\u54c1\u306f\u4f55\uff1f",
+		"positive_passages": [
+			"1249205#3"
+		],
+		"negative_passages": [
+			"1249205#23",
+			"1249205#5",
+			"1249205#7",
+			"1249205#9",
+			"1249205#6",
+			"1249205#19",
+			"1249205#22",
+			"1249205#10"
+		]
+	},
+	"872": {
+		"query": "\u30aa\u30b9\u30ab\u30fc\u30fb\u30ef\u30a4\u30eb\u30c9\u306e\u51fa\u8eab\u306f\u3069\u3053",
+		"positive_passages": [
+			"846756#0"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"898": {
+		"query": "\u30a2\u30c3\u30ab\u30c9\u738b\u671d\u6642\u4ee3\u306b\u4e0b\u6c34\u9053\u304c\u5b58\u5728\u3057\u305f\uff1f",
+		"positive_passages": [
+			"913235#4"
+		],
+		"negative_passages": [
+			"913235#5"
+		]
+	},
+	"903": {
+		"query": "\u30a6\u30a3\u30ea\u30a2\u30e0\u30fb\u30de\u30db\u30fc\u30f3\u306f\u3044\u3064\u751f\u307e\u308c\u305f\uff1f",
+		"positive_passages": [
+			"1388296#0"
+		],
+		"negative_passages": [
+			"1388296#4",
+			"1388296#5",
+			"1388296#9"
+		]
+	},
+	"936": {
+		"query": "\u30b5\u30c3\u30ab\u30fc\u306f\u3069\u3053\u306e\u56fd\u3067\u767a\u7965\u3057\u305f\uff1f",
+		"positive_passages": [
+			"785849#30"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"971": {
+		"query": "\u30b9\u30a6\u30a7\u30fc\u30c7\u30f3\u306e\u9996\u90fd\u306f\u3069\u3053\u3067\u3059\u304b\uff1f",
+		"positive_passages": [
+			"1656280#0"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"1019": {
+		"query": "\u300e\u5b87\u5b99\u6d77\u8cca\u30ad\u30e3\u30d7\u30c6\u30f3\u30cf\u30fc\u30ed\u30c3\u30af\u300f\u306e\u4f5c\u8005\u306f\u8ab0\uff1f",
+		"positive_passages": [
+			"94314#0"
+		],
+		"negative_passages": [
+			"94314#2",
+			"94314#1"
+		]
+	},
+	"1022": {
+		"query": "\u30e1\u30bd\u30dd\u30bf\u30df\u30a2\u6587\u660e\u306f\u3044\u3064\u5b58\u5728\u3057\u305f\uff1f",
+		"positive_passages": [
+			"173451#13"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"1032": {
+		"query": "\u4eba\u985e\u304c\u8fb2\u696d\u3092\u59cb\u3081\u305f\u306e\u306f\u3044\u3064",
+		"positive_passages": [
+			"3287185#7",
+			"3287185#4",
+			"3287185#5"
+		],
+		"negative_passages": [
+			"3287185#1"
+		]
+	},
+	"1056": {
+		"query": "\u30a8\u30ab\u30c1\u30a7\u30ea\u30fc\u30ca2\u4e16\u306b\u62dd\u8b01\u3057\u305f\u65e5\u672c\u4eba\u5546\u4eba\u306f\u8ab0\u3067\u3059\u304b\uff1f",
+		"positive_passages": [
+			"237970#4"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"1081": {
+		"query": "\u4e5d\u4e16\u91ce\u6751\u4e07\u8535\u306f\u3044\u3064\u751f\u307e\u308c\u305f\uff1f",
+		"positive_passages": [
+			"1099424#0"
+		],
+		"negative_passages": [
+			"1099424#1",
+			"1609411#0"
+		]
+	},
+	"1087": {
+		"query": "\u30a2\u30df\u30ce\u9178\u306f\u30bf\u30f3\u30d1\u30af\u8cea\u306e\u5143\uff1f",
+		"positive_passages": [
+			"6471#9"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"1089": {
+		"query": "\u30c0\u30a4\u30a2\u30ca\u30fb\u30d5\u30ea\u30fc\u30de\u30f3\uff1d\u30df\u30c3\u30c8\u30d5\u30a9\u30fc\u30c9\u306f\u30d2\u30c8\u30e9\u30fc\u3068\u4f1a\u3063\u305f\u3053\u3068\u304c\u3042\u308a\u307e\u3059\u304b\uff1f",
+		"positive_passages": [
+			"3779272#0"
+		],
+		"negative_passages": [
+			"3779272#5",
+			"3779272#6",
+			"3779272#11",
+			"3779272#1"
+		]
+	},
+	"1094": {
+		"query": "\u843d\u8a9e\u306f\u3044\u3064\u751f\u307e\u308c\u305f",
+		"positive_passages": [
+			"1684#2"
+		],
+		"negative_passages": [
+			"1684#11"
+		]
+	},
+	"1101": {
+		"query": "\u30b2\u30aa\u30eb\u30ae\u30aa\u30b9\u306e\u51fa\u8eab\u306f\u3069\u3053\uff1f",
+		"positive_passages": [
+			"1784841#1"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"1106": {
+		"query": "\u30ac\u30f3\u30c0\u30e0\u30b7\u30ea\u30fc\u30ba\u306e\u539f\u4f5c\u8005\u306f\u3060\u308c",
+		"positive_passages": [
+			"2372945#53"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"1113": {
+		"query": "\u30cb\u30e5\u30fc\u30ae\u30cb\u30a2\u5cf6\u306f\u56fd\u3067\u3059\u304b\uff1f",
+		"positive_passages": [
+			"44038#0"
+		],
+		"negative_passages": [
+			"44038#15",
+			"44038#12"
+		]
+	},
+	"1117": {
+		"query": "\u4e09\u83f1\u81ea\u52d5\u8eca\u306f\u3044\u3064\u8a2d\u7acb\u3055\u308c\u305f\uff1f",
+		"positive_passages": [
+			"47291#0"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"1133": {
+		"query": "\u30e2\u30fc\u30bf\u30fc\u30b9\u30dd\u30fc\u30c4\u3067\u6b7b\u8005\u304c\u51fa\u305f\u3053\u3068\u306f\u3042\u308b\uff1f",
+		"positive_passages": [
+			"3355437#9",
+			"2068484#31"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"1162": {
+		"query": "\u30db\u30f3\u30b8\u30e5\u30e9\u30b9\u306e\u9996\u90fd\u306f\u3069\u3053\u3067\u3059\u304b\uff1f",
+		"positive_passages": [
+			"60788#0"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"1195": {
+		"query": "\u30aa\u30b9\u30ab\u30fc\u30fb\u30ef\u30a4\u30eb\u30c9\u306e\u51fa\u8eab\u306f\u3069\u3053\uff1f",
+		"positive_passages": [
+			"846756#0"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"1196": {
+		"query": "\u30d4\u30a8\u30fc\u30eb\u30fb\u30f4\u30a3\u30c0\u30eb\uff1d\u30ca\u30b1\u306f\u535a\u58eb\u53f7\u3092\u6301\u3064\uff1f",
+		"positive_passages": [
+			"3848353#3"
+		],
+		"negative_passages": [
+			"3848353#0",
+			"3848353#1"
+		]
+	},
+	"1208": {
+		"query": "\u30d7\u30a8\u30eb\u30c8\u30ea\u30b3\u306e\u9996\u90fd\u306f\uff1f",
+		"positive_passages": [
+			"3340945#0"
+		],
+		"negative_passages": [
+			"3340945#3"
+		]
+	},
+	"1213": {
+		"query": "\u6e90 \u5b9f\u671d\u306f\u3044\u3064\u751f\u307e\u308c\u305f",
+		"positive_passages": [
+			"17674#3"
+		],
+		"negative_passages": [
+			"17674#23"
+		]
+	},
+	"1249": {
+		"query": "\u30f4\u30a3\u30f3\u30bb\u30f3\u30c8\u30fb\u30c8\u30de\u30b9\u30fb\u30ed\u30f3\u30d0\u30eb\u30c7\u30a3\u306e\u51fa\u8eab\u306f\u3069\u3053\uff1f",
+		"positive_passages": [
+			"1615256#1"
+		],
+		"negative_passages": [
+			"1615256#0",
+			"1615256#2",
+			"1615256#3"
+		]
+	},
+	"1283": {
+		"query": "\u30ed\u30b7\u30a2\u5e1d\u56fd\u6700\u5f8c\u306e\u7687\u5e1d\u306f\u8ab0\u3067\u3059\u304b\uff1f",
+		"positive_passages": [
+			"9502#17"
+		],
+		"negative_passages": [
+			"9502#19"
+		]
+	},
+	"1289": {
+		"query": "\u65e5\u672c\u306e\u7af6\u99ac\u306f\u3044\u3064\u304b\u3089\u59cb\u307e\u308a\u307e\u3057\u305f\u304b\uff1f",
+		"positive_passages": [
+			"498249#2"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"1311": {
+		"query": "\u30de\u30eb\u30b3\u30e0\u30fbX\u306e\u5b97\u6559\u306f\u4f55\uff1f",
+		"positive_passages": [
+			"3425724#3"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"1313": {
+		"query": "\u65e5\u672c\u3067\u7af6\u99ac\u5834\u304c\u521d\u3081\u3066\u3067\u304d\u305f\u306e\u306f\u3044\u3064\u3067\u3059\u304b\uff1f",
+		"positive_passages": [
+			"498249#2"
+		],
+		"negative_passages": [
+			"498249#14"
+		]
+	},
+	"1343": {
+		"query": "\u30b0\u30e9\u30a4\u30c0\u30fc\u304c\u6226\u4e89\u3067\u4f7f\u308f\u308c\u305f\u3053\u3068\u306f\u3042\u308b\uff1f",
+		"positive_passages": [
+			"1668357#1"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"1354": {
+		"query": "\u30c9\u30a4\u30c4\u5e1d\u56fd\u6700\u521d\u306e\u7687\u5e1d\u306f\u3060\u308c\uff1f",
+		"positive_passages": [
+			"57163#0",
+			"57163#4"
+		],
+		"negative_passages": [
+			"57163#5"
+		]
+	},
+	"1358": {
+		"query": "\u4e16\u754c\u3067\u521d\u3081\u3066\u30ea\u30cb\u30a2\u30e2\u30fc\u30bf\u30fc\u30ab\u30fc\u3092\u8d70\u884c\u3055\u305b\u305f\u56fd\u306f\u3069\u3053",
+		"positive_passages": [
+			"661266#2"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"1360": {
+		"query": "\u300e\u92fc\u306e\u932c\u91d1\u8853\u5e2b\u300f\u306f\u3044\u3064\u63b2\u8f09\u3055\u308c\u305f\uff1f",
+		"positive_passages": [
+			"257875#0"
+		],
+		"negative_passages": [
+			"257875#20",
+			"257875#17",
+			"257875#4",
+			"257875#3"
+		]
+	},
+	"1393": {
+		"query": "\u7384\u8449 \u5149\u4e00\u90ce\u306e\u51fa\u8eab\u5927\u5b66\u306f\u3069\u3053",
+		"positive_passages": [
+			"326755#2"
+		],
+		"negative_passages": [
+			"326755#30",
+			"326755#28",
+			"326755#4",
+			"326755#7",
+			"326755#9"
+		]
+	},
+	"1397": {
+		"query": "\u300e\u5b87\u5b99\u6d77\u8cca\u30ad\u30e3\u30d7\u30c6\u30f3\u30cf\u30fc\u30ed\u30c3\u30af\u300f\u306f\uff33\uff26\u4f5c\u54c1\uff1f",
+		"positive_passages": [
+			"94314#3"
+		],
+		"negative_passages": [
+			"94314#1",
+			"94314#2"
+		]
+	},
+	"1402": {
+		"query": "\u7537\u6027\u306e\u5c04\u7cbe\u306f\u3001\u4f55\u6b73\u304f\u3089\u3044\u304b\u3089\u59cb\u307e\u308a\u307e\u3059\u304b\uff1f",
+		"positive_passages": [
+			"96590#37",
+			"96590#32"
+		],
+		"negative_passages": [
+			"15347#31"
+		]
+	},
+	"1404": {
+		"query": "\u30ab\u30f3\u30b6\u30b9\u30b7\u30c6\u30a3\u306e\u7dcf\u9762\u7a4d\u306f\uff1f",
+		"positive_passages": [
+			"1039962#21"
+		],
+		"negative_passages": [
+			"1039962#0",
+			"1039962#11"
+		]
+	},
+	"1407": {
+		"query": "\u30de\u30fc\u30d9\u30eb\u30fb\u30b3\u30df\u30c3\u30af\u306b\u30a2\u30f3\u30c9\u30ed\u30a4\u30c9\u306f\u767b\u5834\u3059\u308b\uff1f",
+		"positive_passages": [
+			"3784309#0"
+		],
+		"negative_passages": [
+			"3784309#3",
+			"3784309#2"
+		]
+	},
+	"1417": {
+		"query": "\u85fb\u985e\u3068\u306f\u306a\u3093\u3067\u3059\u304b\uff1f",
+		"positive_passages": [
+			"25006#0"
+		],
+		"negative_passages": [
+			"25006#8",
+			"25006#6",
+			"25006#2"
+		]
+	},
+	"1419": {
+		"query": "\u300e\u5b87\u5b99\u6d77\u8cca\u30ad\u30e3\u30d7\u30c6\u30f3\u30cf\u30fc\u30ed\u30c3\u30af\u300f\u306e\u4e3b\u4eba\u516c\u306f\u8ab0\uff1f",
+		"positive_passages": [
+			"94314#2"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"1426": {
+		"query": "\u5e83\u897f\u30c1\u30ef\u30f3\u65cf\u81ea\u6cbb\u533a\u306b\u3044\u308b\u306e\u306f\u6f22\u6c11\u65cf\u3060\u3051\u3067\u3059\u304b\uff1f",
+		"positive_passages": [
+			"448797#20"
+		],
+		"negative_passages": [
+			"20416#12"
+		]
+	},
+	"1431": {
+		"query": "\u65e5\u672c\u30c6\u30ec\u30d3\u7cfb\u5217\u300eZIP!\u300f\uff1f\u306e\u521d\u56de\u653e\u9001\u306f\u3044\u3064\u3067\u3059\u304b\uff1f",
+		"positive_passages": [
+			"3864531#1",
+			"3864531#0",
+			"2075558#3"
+		],
+		"negative_passages": [
+			"2326835#1"
+		]
+	},
+	"1437": {
+		"query": "\u7b2c\u4e00\u6b21\u30d0\u30eb\u30ab\u30f3\u6226\u4e89\u306f\u3044\u3064\u8d77\u304d\u305f\uff1f",
+		"positive_passages": [
+			"1518763#2"
+		],
+		"negative_passages": [
+			"1211067#2"
+		]
+	},
+	"1446": {
+		"query": "NBA\u3067\u6700\u591a\u512a\u52dd\u56de\u6570\u3092\u8a87\u308b\u30c1\u30fc\u30e0\u306f\u4f55\uff1f",
+		"positive_passages": [
+			"1665807#5"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"1484": {
+		"query": "\u8c4a\u80f8\u624b\u8853\u306f\u3044\u3064\u304b\u3089\u59cb\u307e\u3063\u305f\uff1f",
+		"positive_passages": [
+			"1019163#2"
+		],
+		"negative_passages": [
+			"1019163#5"
+		]
+	},
+	"1499": {
+		"query": "\u4e2d\u56fd\u306f\u6838\u5175\u5668\u3092\u4fdd\u6709\u3059\u308b\uff1f",
+		"positive_passages": [
+			"1941090#90"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"1500": {
+		"query": "\u5927\u82f1\u535a\u7269\u9928\u306e\u521d\u4ee3\u9928\u9577\u306f\u8ab0",
+		"positive_passages": [
+			"40835#9"
+		],
+		"negative_passages": [
+			"1615251#13"
+		]
+	},
+	"1542": {
+		"query": "\u30ed\u30fc\u30de\u795e\u8a71\u306b\u304a\u3051\u308b\u592a\u967d\u795e\u306f\u8ab0\uff1f",
+		"positive_passages": [
+			"120921#23"
+		],
+		"negative_passages": [
+			"120921#24"
+		]
+	},
+	"1588": {
+		"query": "\u30bd\u30a6\u30eb\u306b\u306f\u7a7a\u6e2f\u306f\u3042\u308a\u307e\u3059\u304b\uff1f",
+		"positive_passages": [
+			"108550#4"
+		],
+		"negative_passages": [
+			"804531#61"
+		]
+	},
+	"1616": {
+		"query": "\u30a6\u30ba\u30d9\u30ad\u30b9\u30bf\u30f3\u5171\u548c\u56fd\u306e\u516c\u7528\u8a9e\u306f\u4f55\uff1f",
+		"positive_passages": [
+			"2744415#14"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"1626": {
+		"query": "\u4e2d\u83ef\u6c11\u56fd\u3067\u306f\u6c11\u4e3b\u4e3b\u7fa9\u653f\u6cbb\u304c\u884c\u308f\u308c\u3066\u3044\u308b\uff1f",
+		"positive_passages": [
+			"32096#94"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"1627": {
+		"query": "\u30d0\u30ed\u30c3\u30af\u306e\u7279\u5fb4\u306f\u4f55",
+		"positive_passages": [
+			"142512#2",
+			"142512#0",
+			"79519#0"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"1633": {
+		"query": "\u65e5\u672c\u521d\u306e\u5916\u56fd\u4eba\u5c45\u7559\u5730\u306f\u3069\u3053",
+		"positive_passages": [
+			"223277#16"
+		],
+		"negative_passages": [
+			"223277#20",
+			"498249#2"
+		]
+	},
+	"1642": {
+		"query": "\u4eac\u90fd\u5e1d\u56fd\u5927\u5b66\u306f\u3044\u3064\u8a2d\u7acb\u3057\u305f\uff1f",
+		"positive_passages": [
+			"2471#8",
+			"2471#7"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"1670": {
+		"query": "\u4e16\u754c\u3067\u521d\u3081\u3066\u84b8\u6c17\u8239\u3092\u958b\u767a\u3057\u305f\u306e\u306f\u8ab0",
+		"positive_passages": [
+			"1266501#18"
+		],
+		"negative_passages": [
+			"10157#14"
+		]
+	},
+	"1679": {
+		"query": "\u95a2\u897f\u5b66\u9662\u5927\u5b66\u30d5\u30a1\u30a4\u30bf\u30fc\u30ba\u304c\u65e5\u672c\u4e00\u306b\u306a\u3063\u305f\u56de\u6570\u306f\uff1f",
+		"positive_passages": [
+			"432086#2"
+		],
+		"negative_passages": [
+			"432086#16"
+		]
+	},
+	"1702": {
+		"query": "\u30b5\u30ab\u30ca\u30af\u30b7\u30e7\u30f3\u306e\u5c71\u53e3\u4e00\u90ce\u306e\u51fa\u8eab\u306f\u3069\u3053",
+		"positive_passages": [
+			"1984910#2",
+			"1984910#0"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"1722": {
+		"query": "\u30e1\u30bd\u30dd\u30bf\u30df\u30a2\u6587\u660e\u304c\u767a\u751f\u3057\u305f\u306e\u306f\u3044\u3064",
+		"positive_passages": [
+			"173451#13"
+		],
+		"negative_passages": [
+			"1406290#4"
+		]
+	},
+	"1728": {
+		"query": "\u30eb\u30ef\u30f3\u30c0\u306b\u304a\u3051\u308b\u3001\u30d5\u30c4\u65cf\u3068\u30c4\u30c1\u65cf\u306e\u9055\u3044\u306f\uff1f",
+		"positive_passages": [
+			"2004278#2"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"1738": {
+		"query": "\u6700\u53e4\u306e\u6c34\u6d17\u5f0f\u30c8\u30a4\u30ec\u306e\u4ed5\u7d44\u307f\u306f\uff1f",
+		"positive_passages": [
+			"913235#4"
+		],
+		"negative_passages": [
+			"913235#0",
+			"913235#5"
+		]
+	},
+	"1748": {
+		"query": "\u30b3\u30ab\u30a4\u30f3\u306b\u4f9d\u5b58\u6027\u306f\u3042\u308b\uff1f",
+		"positive_passages": [
+			"1836803#5"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"1755": {
+		"query": "\u85e4\u5b50\u30fbF\u30fb\u4e0d\u4e8c\u96c4\u306f\u3001\u4f55\u5e74\u306b\u6b7b\u53bb\u3057\u307e\u3057\u305f\u304b\uff1f",
+		"positive_passages": [
+			"926859#1"
+		],
+		"negative_passages": [
+			"1342#34",
+			"1342#0",
+			"1342#26"
+		]
+	},
+	"1756": {
+		"query": "\u30e2\u30f3\u30c6\u30cd\u30b0\u30ed\u306e\u9996\u90fd\u306f\u3069\u3053\u3067\u3059\u304b\uff1f",
+		"positive_passages": [
+			"2417487#0"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"1765": {
+		"query": "\u30a6\u30a3\u30ea\u30a2\u30e0\u30fb\u30b1\u30f3\u30c8\u306e\u51fa\u8eab\u306f\u3069\u3053",
+		"positive_passages": [
+			"1520078#0",
+			"1520078#1"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"1782": {
+		"query": "\u96fb\u8eca\u304c\u65e5\u672c\u3067\u521d\u3081\u3066\u5c0e\u5165\u3055\u308c\u305f\u306e\u306f\u3044\u3064",
+		"positive_passages": [
+			"212057#1"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"1812": {
+		"query": "\u4eac\u90fd\u5927\u5b66\u306f\u56fd\u7acb\u5927\u5b66\u3067\u3059\u304b\uff1f",
+		"positive_passages": [
+			"2471#1"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"1831": {
+		"query": "\u7a7a\u624b\u5bb6\u306b\u5f15\u9000\u306f\u3042\u308b\uff1f",
+		"positive_passages": [
+			"515954#7"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"1834": {
+		"query": "\u30e1\u30ed\u30c8\u30ed\u30f3\u3092\u8ca9\u58f2\u3057\u305f\u4f1a\u793e\u306f\u4f55",
+		"positive_passages": [
+			"1041#1"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"1863": {
+		"query": "\u65e5\u672c\u304c\u97d3\u56fd\u3092\u7d71\u6cbb\u3057\u3066\u3044\u305f\u306e\u306f\u3044\u3064\uff1f",
+		"positive_passages": [
+			"958578#0"
+		],
+		"negative_passages": [
+			"958578#2"
+		]
+	},
+	"1928": {
+		"query": "\u521d\u3081\u3066\u539f\u5b50\u7206\u5f3e\u304c\u6226\u4e89\u306b\u4f7f\u308f\u308c\u305f\u306e\u306f\u3044\u3064\uff1f",
+		"positive_passages": [
+			"1879433#0"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"1939": {
+		"query": "\u7f8e\u6fc3\u56fd\u90e1\u4e0a\u85e9\u3068\u306f\u73fe\u5728\u306e\u4f55\u770c\u3067\u3059\u304b\uff1f",
+		"positive_passages": [
+			"272130#0"
+		],
+		"negative_passages": [
+			"1100366#5"
+		]
+	},
+	"1986": {
+		"query": "\u7384\u8449 \u5149\u4e00\u90ce\u306f\u3069\u3053\u3067\u751f\u307e\u308c\u305f",
+		"positive_passages": [
+			"326755#2"
+		],
+		"negative_passages": [
+			"326755#30"
+		]
+	},
+	"1992": {
+		"query": "\u91ce\u7403\u306e\u767a\u7965\u306e\u5730\u306f\u3069\u3053\u3067\u3059\u304b\uff1f",
+		"positive_passages": [
+			"3083571#1"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"1997": {
+		"query": "\u300e\u30c9\u30f3\u30fb\u30ad\u30db\u30fc\u30c6\u300f\u306f\u4f55\u5e74\u306b\u767a\u8868\u3055\u308c\u305f\u4f5c\u54c1\u3067\u3059\u304b\uff1f",
+		"positive_passages": [
+			"2399768#17"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"2004": {
+		"query": "\u65e5\u672c\u3067\u7af6\u99ac\u304c\u59cb\u307e\u3063\u305f\u306e\u306f\u3044\u3064",
+		"positive_passages": [
+			"498249#2"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"2009": {
+		"query": "\u30e2\u30ea\u30fc\u30fb\u30d4\u30c3\u30c1\u30e3\u30fc\u306e\u51fa\u8eab\u306f\u3069\u3053",
+		"positive_passages": [
+			"3894740#24"
+		],
+		"negative_passages": [
+			"3894740#13",
+			"3894740#14"
+		]
+	},
+	"2016": {
+		"query": "\u30cb\u30e5\u30fc\u30e8\u30fc\u30af\u5e02\u30de\u30f3\u30cf\u30c3\u30bf\u30f3\u306b\u3042\u308b\u91d1\u878d\u30d3\u30b8\u30cd\u30b9\u8857\u3092\u4f55\u3068\u3044\u3044\u307e\u3059\u304b\uff1f",
+		"positive_passages": [
+			"1273602#24"
+		],
+		"negative_passages": [
+			"1273602#22",
+			"1273602#3",
+			"641713#7"
+		]
+	},
+	"2033": {
+		"query": "\u82f1\u56fd\u3067\u738b\u4f4d\u3092\u9000\u3044\u305f\u3001\u56fd\u738b\u306e\u540d\u524d\u306f\u306a\u3093\u3067\u3059\u304b\uff1f",
+		"positive_passages": [
+			"760304#11"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"2035": {
+		"query": "\u30d1\u30c1\u30f3\u30b3\u306b\u4f9d\u5b58\u6027\u306f\u3042\u308b\uff1f",
+		"positive_passages": [
+			"186702#35"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"2049": {
+		"query": "\u96fb\u5b50\u30d6\u30c3\u30af\u30ea\u30fc\u30c0\u30fc\u306f\u3044\u3064\u8a95\u751f\u3057\u305f\uff1f",
+		"positive_passages": [
+			"2064176#7"
+		],
+		"negative_passages": [
+			"2064176#6",
+			"2064176#30",
+			"2064176#5"
+		]
+	},
+	"2098": {
+		"query": "\u30d4\u30a8\u30fc\u30eb\u30fb\u30f4\u30a3\u30c0\u30eb\uff1d\u30ca\u30b1\u306f\u3044\u3064\u751f\u307e\u308c\u305f\uff1f",
+		"positive_passages": [
+			"3848353#1",
+			"3848353#0"
+		],
+		"negative_passages": [
+			"3848353#2",
+			"3848353#3"
+		]
+	},
+	"2111": {
+		"query": "\u30cf\u30a4\u30ea\u30fc\u30fb\u30bb\u30f3\u30b7\u30c6\u30a3\u30d6\u30fb\u30d1\u30fc\u30bd\u30f3\u304c\u5b58\u5728\u3059\u308b\u5272\u5408\u306f\uff1f",
+		"positive_passages": [
+			"3264039#0"
+		],
+		"negative_passages": [
+			"3264039#1",
+			"3264039#5",
+			"3264039#7",
+			"3264039#9",
+			"3264039#10",
+			"3264039#2",
+			"3264039#8",
+			"3264039#11",
+			"3264039#3"
+		]
+	},
+	"2112": {
+		"query": "\u6620\u753b\u300c\u7f85\u751f\u9580\u300d\u304c\u516c\u958b\u3055\u308c\u305f\u306e\u306f\u3044\u3064\uff1f",
+		"positive_passages": [
+			"2148473#2"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"2157": {
+		"query": "\u5317\u6d77\u9053\u306e\u5148\u4f4f\u6c11\u65cf\u306f\u3001\u306a\u3093\u3068\u3044\u3046\u6c11\u65cf\u3067\u3059\u304b\uff1f",
+		"positive_passages": [
+			"293501#65"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"2189": {
+		"query": "\u6c34\u5f69\u753b\u306e\u767a\u7965\u306f\u3069\u3053",
+		"positive_passages": [
+			"31294#3"
+		],
+		"negative_passages": [
+			"31294#4",
+			"31294#7"
+		]
+	},
+	"2225": {
+		"query": "\u30a6\u30a3\u30ad\u30da\u30c7\u30a3\u30a2\u306f\u3044\u3064\u958b\u8a2d\u3055\u308c\u305f",
+		"positive_passages": [
+			"159075#3"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"2239": {
+		"query": "\u793e\u4f1a\u798f\u7949\u58eb\u306f\u56fd\u5bb6\u8cc7\u683c\uff1f",
+		"positive_passages": [
+			"61085#1"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"2251": {
+		"query": "\u7e54\u7530\u4fe1\u6210\u306f\u7e54\u7530\u4fe1\u9577\u306e\u5b50\u5b6b\uff1f",
+		"positive_passages": [
+			"1095478#20"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"2332": {
+		"query": "\u30d0\u30f3\u30b0\u30e9\u30c7\u30b7\u30e5\u306e\u9996\u90fd\u306f\u3069\u3053",
+		"positive_passages": [
+			"6947#33"
+		],
+		"negative_passages": [
+			"6947#39"
+		]
+	},
+	"2345": {
+		"query": "\u30eb\u30ce\u30fc D2\u306f\u3044\u304f\u3064\u751f\u7523\u3055\u308c\u305f\uff1f",
+		"positive_passages": [
+			"3895537#1"
+		],
+		"negative_passages": [
+			"3895537#10",
+			"3895537#7"
+		]
+	},
+	"2364": {
+		"query": "\u30b8\u30a7\u30f4\u30a9\u30fc\u30c0\u30f3\u306e\u7363\u306f\u4eba\u9593\u3092\u98df\u3079\u305f\uff1f",
+		"positive_passages": [
+			"2345653#2"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"2370": {
+		"query": "\u30de\u30ec\u30fc\u30b7\u30a2\u822a\u7a7a17\u4fbf\u6483\u589c\u4e8b\u4ef6\u3067\u4f55\u4eba\u304c\u4e57\u3063\u3066\u3044\u305f",
+		"positive_passages": [
+			"3025535#5"
+		],
+		"negative_passages": [
+			"3025535#0"
+		]
+	},
+	"2377": {
+		"query": "\u671d\u9bae\u534a\u5cf6\u306b\u30ad\u30ea\u30b9\u30c8\u6559\u304c\u4f1d\u6765\u3057\u305f\u306e\u306f\u3044\u3064",
+		"positive_passages": [
+			"2110067#2"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"2385": {
+		"query": "\u30d5\u30e9\u30f3\u30b9\u9769\u547d\u5f8c\u3001\u30d5\u30e9\u30f3\u30b9\u306e\u8cb4\u65cf\u306f\u30d5\u30e9\u30f3\u30b9\u56fd\u5185\u306b\u3068\u3069\u307e\u308a\u307e\u3057\u305f\u304b\uff1f",
+		"positive_passages": [
+			"630609#1"
+		],
+		"negative_passages": [
+			"1016203#9"
+		]
+	},
+	"2458": {
+		"query": "\u30b9\u30a4\u30b9\u306fEU\u306b\u53c2\u52a0\u3057\u3066\u3044\u308b\uff1f",
+		"positive_passages": [
+			"3049#4"
+		],
+		"negative_passages": [
+			"1226090#77"
+		]
+	},
+	"2483": {
+		"query": "\u4e95\u4e0a\u96c5\u96c4\u306f\u4f55\u3092\u3057\u3066\u3044\u308b\u4eba\uff1f",
+		"positive_passages": [
+			"2568378#0"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"2489": {
+		"query": "\u4e88\u5099\u81ea\u885b\u5b98\u306f\u4ed6\u306e\u8077\u306b\u5c31\u304f\u3053\u3068\u304c\u3067\u304d\u308b\uff1f",
+		"positive_passages": [
+			"98981#17"
+		],
+		"negative_passages": [
+			"98981#16"
+		]
+	},
+	"2495": {
+		"query": "\u30e2\u30fc\u30c4\u30a1\u30eb\u30c8\u306e\u672a\u5b8c\u6210\u4f5c\u54c1\u306f\u3042\u308b\uff1f",
+		"positive_passages": [
+			"89416#11"
+		],
+		"negative_passages": [
+			"89416#15"
+		]
+	},
+	"2510": {
+		"query": "\u30df\u30aa\u30d1\u30c1\u30fc\u306e\u540d\u79f0\u306e\u7531\u6765\u306f\u4f55\uff1f",
+		"positive_passages": [
+			"1797038#0"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"2552": {
+		"query": "\u65e5\u672c\u3067\u521d\u3081\u3066\u7af6\u99ac\u304c\u884c\u308f\u308c\u305f\u306e\u306f\u3044\u3064",
+		"positive_passages": [
+			"498249#2"
+		],
+		"negative_passages": [
+			"498249#11",
+			"498249#14"
+		]
+	},
+	"2553": {
+		"query": "\u30cf\u30fc\u30e2\u30cb\u30fc\u3068\u306f\u306a\u3093\u3067\u3059\u304b\uff1f",
+		"positive_passages": [
+			"1420858#0"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"2599": {
+		"query": "\u4ea4\u97ff\u66f2\u3068\u306f\u306a\u3093\u3067\u3059\u304b\uff1f",
+		"positive_passages": [
+			"15498#3"
+		],
+		"negative_passages": [
+			"248544#2",
+			"759208#0"
+		]
+	},
+	"2607": {
+		"query": "\u6559\u80b2\u30d0\u30a6\u30c1\u30e3\u30fc\u306f\u65e5\u672c\u3067\u5c0e\u5165\u3055\u308c\u305f\uff1f",
+		"positive_passages": [
+			"732664#2"
+		],
+		"negative_passages": [
+			"732664#12",
+			"732664#9",
+			"732664#20",
+			"732664#10",
+			"732664#16",
+			"732664#17"
+		]
+	},
+	"2630": {
+		"query": "\u516c\u8846\u96fb\u8a71\u306f\u3044\u3064\u304b\u3089\u8a2d\u7f6e\u304c\u59cb\u307e\u3063\u305f\uff1f",
+		"positive_passages": [
+			"25878#31",
+			"1129152#4"
+		],
+		"negative_passages": [
+			"25878#32",
+			"465708#53",
+			"1129152#3",
+			"25878#37",
+			"25878#41"
+		]
+	},
+	"2637": {
+		"query": "\u6d77\u5e95\u30b1\u30fc\u30d6\u30eb\u3068\u306f\u306a\u3093\u3067\u3059\u304b\uff1f",
+		"positive_passages": [
+			"347109#0"
+		],
+		"negative_passages": [
+			"347109#1",
+			"347109#11",
+			"347109#12"
+		]
+	},
+	"2638": {
+		"query": "\u5317\u671d\u9bae\u306f\u6838\u4fdd\u6709\u56fd\u3067\u3059\u304b\uff1f",
+		"positive_passages": [
+			"31949#36"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"2652": {
+		"query": "\u30b5\u30ab\u30ca\u30af\u30b7\u30e7\u30f3\u306e\u30dc\u30fc\u30ab\u30eb\u306f\u8ab0\uff1f",
+		"positive_passages": [
+			"1984910#2"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"2658": {
+		"query": "\u30ab\u30eb\u30d1\u30a4\u30f3\u306f\u3044\u3064\u767a\u898b\u3055\u308c\u305f\uff1f",
+		"positive_passages": [
+			"2776037#1"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"2666": {
+		"query": "\u4e0b\u4e45\u4fdd\u30c0\u30e0\u3067\u767a\u96fb\u306f\u3055\u308c\u308b\uff1f",
+		"positive_passages": [
+			"751086#21"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"2667": {
+		"query": "\u9759\u96fb\u6c17\u3092\u767a\u898b\u3057\u305f\u306e\u306f\u8ab0",
+		"positive_passages": [
+			"30089#2"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"2674": {
+		"query": "\u65e5\u672c\u6700\u53e4\u306e\u7af6\u99ac\u5834\u306f\u4f55",
+		"positive_passages": [
+			"498249#2"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"2680": {
+		"query": "\u30d6\u30fc\u30bf\u30f3\u306e\u516c\u7528\u8a9e\u306f\u4f55\uff1f",
+		"positive_passages": [
+			"6374#0"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"2703": {
+		"query": "\u690e\u540d\u6797\u6a8e\u304c\u6771\u4eac\u4e8b\u5909\u3092\u7d50\u6210\u3057\u305f\u306e\u306f\u3044\u3064\uff1f",
+		"positive_passages": [
+			"2016107#18"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"2704": {
+		"query": "\u9244\u9053\u306e\u904b\u8ee2\u624b\u306b\u306a\u308b\u306b\u306f\u8cc7\u683c\u304c\u5fc5\u8981\u3067\u3059\u304b\uff1f",
+		"positive_passages": [
+			"112172#3"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"2740": {
+		"query": "\u30b7\u30fc\u30ad\u30f3\u30b0\u30b6\u30d1\u30fc\u30eb\u304cNHK\u30de\u30a4\u30eb\u30ab\u30c3\u30d7\u3067\u52dd\u3063\u305f\u969b\u306e\u9a0e\u624b\u306f\u8ab0\uff1f",
+		"positive_passages": [
+			"359238#1"
+		],
+		"negative_passages": [
+			"359238#8",
+			"359238#6",
+			"359238#19",
+			"359238#14",
+			"359238#7"
+		]
+	},
+	"2773": {
+		"query": "\u51b7\u6226\u304c\u7d42\u308f\u3063\u305f\u306e\u306f\u3044\u3064",
+		"positive_passages": [
+			"11650#6",
+			"11650#1"
+		],
+		"negative_passages": [
+			"11650#23"
+		]
+	},
+	"2783": {
+		"query": "\u30a4\u30f3\u30c9\u30cd\u30b7\u30a2\u306e\u9996\u90fd\u306f\u3069\u3053\u3067\u3059\u304b\uff1f",
+		"positive_passages": [
+			"8601#0"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"2794": {
+		"query": "\u30d5\u30a1\u30fc\u30b9\u30c8\u30d1\u30fc\u30bd\u30f3\u30fb\u30b7\u30e5\u30fc\u30bf\u30fc\u306e\u30b2\u30fc\u30e0\u306b\u306f\uff13D\u6a5f\u80fd\u304c\u3042\u308b\u3082\u306e\u304c\u3042\u308a\u307e\u3059\u304b\uff1f",
+		"positive_passages": [
+			"93937#1"
+		],
+		"negative_passages": [
+			"93937#0"
+		]
+	},
+	"2826": {
+		"query": "\u30b8\u30d6\u30c1\u30fb\u30a8\u30c1\u30aa\u30d4\u30a2\u9244\u9053 \u306f\u3044\u3064\u5efa\u8a2d\u3055\u308c\u305f\uff1f",
+		"positive_passages": [
+			"8600#8"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"2841": {
+		"query": "\u97d3\u56fd\u8a9e\u3067\u306f\u6f22\u5b57\u3092\u4f7f\u3046\uff1f",
+		"positive_passages": [
+			"30655#17"
+		],
+		"negative_passages": [
+			"30655#18"
+		]
+	},
+	"2862": {
+		"query": "\u300e\u304f\u308d\u30a2\u30b2\u30cf\u300f\u306e\u4e3b\u4eba\u516c\u306e\u540d\u524d\u306f\uff1f",
+		"positive_passages": [
+			"2913136#1"
+		],
+		"negative_passages": [
+			"2913136#0"
+		]
+	},
+	"2899": {
+		"query": "\u592a\u967d\u7cfb\u306e\u885b\u661f\u3067\u4e00\u756a\u5927\u304d\u3044\u306e\u306f\u4f55",
+		"positive_passages": [
+			"2693#56"
+		],
+		"negative_passages": [
+			"2693#59",
+			"2693#67",
+			"44205#12",
+			"2693#46"
+		]
+	},
+	"2902": {
+		"query": "\u30b8\u30e7\u30f3\u30fb\u30c0\u30f3\u30ab\u30f3\u30fb\u30d0\u30eb\u30af\u30ea\u30fc\u306f\u3044\u3064\u751f\u307e\u308c\u305f\uff1f",
+		"positive_passages": [
+			"2706831#2",
+			"2706831#0"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"2930": {
+		"query": "\u4e16\u754c\u6700\u5927\u306e\u30c0\u30e0\u306f\u4f55\uff1f",
+		"positive_passages": [
+			"20149#17"
+		],
+		"negative_passages": [
+			"20149#31"
+		]
+	},
+	"2979": {
+		"query": "\u4eba\u985e\u306f\u3044\u3064\u8fb2\u696d\u3092\u59cb\u3081\u305f",
+		"positive_passages": [
+			"3287185#7",
+			"3287185#4",
+			"3287185#5"
+		],
+		"negative_passages": [
+			"3287185#1"
+		]
+	},
+	"2983": {
+		"query": "\u30de\u30aa\u30ea\u65cf\u306e\u4f1d\u7d71\u7684\u306a\u8e0a\u308a\u306e\u540d\u524d\u306f\uff1f",
+		"positive_passages": [
+			"206592#0"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"2988": {
+		"query": "\u30b0\u30ec\u30fc\u30c8\u30d6\u30ea\u30c6\u30f3\u738b\u56fd\u3068\u306f\u3069\u306e\u738b\u56fd\u3092\u6307\u3057\u307e\u3059\u304b\uff1f",
+		"positive_passages": [
+			"1698893#5",
+			"1698893#14"
+		],
+		"negative_passages": [
+			"1698893#0"
+		]
+	},
+	"2989": {
+		"query": "\u7acb\u5ddd\u98db\u884c\u6a5f\u306f\u6226\u95d8\u6a5f\u306e\u958b\u767a\u3092\u3057\u3066\u3044\u305f\uff1f",
+		"positive_passages": [
+			"798435#1",
+			"940106#1"
+		],
+		"negative_passages": [
+			"3361846#6"
+		]
+	},
+	"2999": {
+		"query": "\u30c0\u30e0\u304c\u521d\u3081\u3066\u4f5c\u3089\u308c\u305f\u306e\u306f\u3069\u306e\u56fd\u3067\u3059\u304b\uff1f",
+		"positive_passages": [
+			"20149#9"
+		],
+		"negative_passages": [
+			"20149#11",
+			"20149#10",
+			"20149#12"
+		]
+	},
+	"3026": {
+		"query": "\u6771\u65e5\u672c\u65c5\u5ba2\u9244\u9053\u306f\uff2a\uff32\u6771\u65e5\u672c\u306e\u3053\u3068\uff1f",
+		"positive_passages": [
+			"103000#0"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"3028": {
+		"query": "\u30d0\u30a6\u30f3\u30c6\u30a3\u53f7\u306e\u53cd\u4e71\u5f53\u6642\u306e\u30d0\u30a6\u30f3\u30c6\u30a3\u53f7\u306e\u4e57\u7d44\u54e1\u306e\u6570\u306f\uff1f",
+		"positive_passages": [
+			"370247#2",
+			"370247#5"
+		],
+		"negative_passages": [
+			"370247#9",
+			"370247#13",
+			"370247#7"
+		]
+	},
+	"3029": {
+		"query": "\u30a6\u30e9\u30b8\u30df\u30fc\u30eb\u30fb\u30d7\u30fc\u30c1\u30f3\u304c\u6700\u521d\u306b\u5927\u7d71\u9818\u306b\u306a\u3063\u305f\u306e\u306f\u3044\u3064",
+		"positive_passages": [
+			"163465#15"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"3064": {
+		"query": "\u30ea\u30e5\u30a6\u30c8\u30ab\u30b2 \u306e\u5927\u304d\u3055\u306f\uff1f",
+		"positive_passages": [
+			"3673265#12"
+		],
+		"negative_passages": [
+			"3673265#9",
+			"3673265#19"
+		]
+	},
+	"3072": {
+		"query": "\u6771\u4eac\u90fd\u9752\u5c11\u5e74\u306e\u5065\u5168\u306a\u80b2\u6210\u306b\u95a2\u3059\u308b\u6761\u4f8b\u306f\u3044\u3064\u3067\u304d\u307e\u3057\u305f\u304b\uff1f",
+		"positive_passages": [
+			"304749#0"
+		],
+		"negative_passages": [
+			"304749#1"
+		]
+	},
+	"3136": {
+		"query": "J\u30fbR\u30fbR\u30fb\u30c8\u30fc\u30eb\u30ad\u30f3\u306e\u51fa\u8eab\u306f\uff1f",
+		"positive_passages": [
+			"15661#0",
+			"15661#3"
+		],
+		"negative_passages": [
+			"15661#5",
+			"15661#6",
+			"15661#14",
+			"15661#15",
+			"15661#1"
+		]
+	},
+	"3143": {
+		"query": "\u30d0\u30d7\u30c6\u30b9\u30c8\u6559\u4f1a\u306e\u767a\u7965\u306f\u3069\u3053",
+		"positive_passages": [
+			"24762#1"
+		],
+		"negative_passages": [
+			"24762#15"
+		]
+	},
+	"3150": {
+		"query": "\u30bd\u30eb\u30c8\u30f3\u6e56\u306e\u9762\u7a4d\u306f\uff1f",
+		"positive_passages": [
+			"2369533#1"
+		],
+		"negative_passages": [
+			"2369533#0",
+			"2369533#19",
+			"2369533#2",
+			"2369533#7",
+			"2369533#4",
+			"2369533#12",
+			"2369533#13",
+			"2369533#6",
+			"2369533#11"
+		]
+	},
+	"3155": {
+		"query": "\u4eba\u985e\u306f\u3044\u3064\u304b\u3089\u6570\u5b66\u3092\u59cb\u3081\u305f",
+		"positive_passages": [
+			"173451#13"
+		],
+		"negative_passages": [
+			"173451#12"
+		]
+	},
+	"3162": {
+		"query": "\u300e\u5b87\u5b99\u6d77\u8cca\u30ad\u30e3\u30d7\u30c6\u30f3\u30cf\u30fc\u30ed\u30c3\u30af\u300f\u306f\u6f2b\u753b\u4f5c\u54c1\uff1f",
+		"positive_passages": [
+			"94314#0"
+		],
+		"negative_passages": [
+			"94314#2",
+			"94314#1",
+			"94314#3"
+		]
+	},
+	"3163": {
+		"query": "\u30dd\u30bf\u30e9\u5bae\u6bbf\u306f\u3069\u3053\u306b\u3042\u308b\uff1f",
+		"positive_passages": [
+			"17488#0"
+		],
+		"negative_passages": [
+			"17488#4",
+			"17488#1",
+			"17488#2",
+			"17488#5",
+			"17488#10"
+		]
+	},
+	"3195": {
+		"query": "\u6708\u3068\u5730\u7403\u306e\u8ddd\u96e2\u306f\uff1f",
+		"positive_passages": [
+			"2680902#5"
+		],
+		"negative_passages": [
+			"88091#4"
+		]
+	},
+	"3208": {
+		"query": "\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u304c\u4e00\u822c\u306b\u666e\u53ca\u3057\u305f\u306e\u306f\u3044\u3064\uff1f",
+		"positive_passages": [
+			"479153#7"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"3209": {
+		"query": "\u30ce\u30fc\u30b9\u30ab\u30ed\u30e9\u30a4\u30ca\u5dde\u306e\u5dde\u90fd\u306f\u3069\u3053",
+		"positive_passages": [
+			"57058#0"
+		],
+		"negative_passages": [
+			"3315202#0"
+		]
+	},
+	"3216": {
+		"query": "\u30cf\u30f3\u30b2\u30fc\u30e0\u306f\u65e5\u672c\u306e\u4f1a\u793e\uff1f",
+		"positive_passages": [
+			"711456#0"
+		],
+		"negative_passages": [
+			"1250960#1"
+		]
+	},
+	"3219": {
+		"query": "\u30dd\u30bf\u30e9\u5bae\u306e\u5927\u304d\u3055\u306f\uff1f",
+		"positive_passages": [
+			"17488#1"
+		],
+		"negative_passages": [
+			"17488#2",
+			"17488#4",
+			"17488#5"
+		]
+	},
+	"3273": {
+		"query": "\u30d2\u30c8\u30e9\u30fc\u306f\u3044\u3064\u81ea\u6bba\u3057\u305f\uff1f",
+		"positive_passages": [
+			"2917901#2"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"3274": {
+		"query": "\u5357\u7dcf\u91cc\u898b\u516b\u72ac\u4f1d\u304c\u66f8\u304b\u308c\u305f\u306e\u306f\u3044\u3064\uff1f",
+		"positive_passages": [
+			"52001#1",
+			"52001#0"
+		],
+		"negative_passages": [
+			"52001#5",
+			"52001#9",
+			"52001#2",
+			"52001#10",
+			"52001#7"
+		]
+	},
+	"3276": {
+		"query": "\u4e16\u754c\u6700\u5927\u306e\u30b5\u30e1\u306f\u4f55",
+		"positive_passages": [
+			"112444#2"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"3297": {
+		"query": "\u30ad\u30e3\u30ce\u30f3\u306f\u3044\u3064\u5275\u59cb\u3057\u305f",
+		"positive_passages": [
+			"1717467#3"
+		],
+		"negative_passages": [
+			"1717467#6",
+			"1717467#10"
+		]
+	},
+	"3299": {
+		"query": "\u30b8\u30a7\u30fc\u30e0\u30b9\u30fb\u30a8\u30c9\u30ef\u30fc\u30c9\u30fb\u30b1\u30ea\u30fc\u304c\u6700\u521d\u306b\u5165\u56e3\u3057\u305f\u30c1\u30fc\u30e0\u306f\u4f55\uff1f",
+		"positive_passages": [
+			"603184#0"
+		],
+		"negative_passages": [
+			"1021087#1",
+			"603184#3"
+		]
+	},
+	"3307": {
+		"query": "\u30e2\u30cf\u30de\u30c3\u30c9\u30fb\u30e6\u30b9\u30d5\u30fb\u30ab\u30e9\u306f\u3044\u3064\u751f\u307e\u308c\u305f",
+		"positive_passages": [
+			"1951349#0"
+		],
+		"negative_passages": [
+			"1951349#2",
+			"1951349#4",
+			"1951349#9",
+			"1951349#18",
+			"1951349#21",
+			"1951349#6",
+			"1951349#24",
+			"1951349#5",
+			"1951349#20"
+		]
+	},
+	"3346": {
+		"query": "\u30d5\u30a7\u30ed\u30bb\u30f3\u306f\u3044\u3064\u767a\u898b\u3055\u308c\u305f\uff1f",
+		"positive_passages": [
+			"214246#2"
+		],
+		"negative_passages": [
+			"214246#3"
+		]
+	},
+	"3359": {
+		"query": "\u30cb\u30b3\u30c1\u30f3\u306f\u767a\u304c\u3093\u6027\u304c\u3042\u308b\uff1f",
+		"positive_passages": [
+			"2690324#2"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"3364": {
+		"query": "\u30e9\u30f3\u30c9\u30b9\u30b1\u30fc\u30d7\u30a2\u30fc\u30ad\u30c6\u30af\u30c8\u3068\u3044\u3046\u8077\u696d\u306f\u65e5\u672c\u306b\u3082\u5b58\u5728\u3059\u308b\uff1f",
+		"positive_passages": [
+			"125522#20"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"3396": {
+		"query": "\u51b7\u6226\u306f\u4f55\u5e74\u304b\u3089\u4f55\u5e74\u307e\u3067\u3067\u3059\u304b\uff1f",
+		"positive_passages": [
+			"11650#1"
+		],
+		"negative_passages": [
+			"11650#6"
+		]
+	},
+	"3407": {
+		"query": "\u5357\u6e80\u5dde\u9244\u9053\u306f\u5927\u65e5\u672c\u5e1d\u56fd\u306e\u4f1a\u793e\u3067\u3057\u305f\u304b\uff1f",
+		"positive_passages": [
+			"14865#0"
+		],
+		"negative_passages": [
+			"14865#2",
+			"14865#3",
+			"448812#1"
+		]
+	},
+	"3443": {
+		"query": "\u4e8c\u677e\u5b78\u820e\u5927\u5b66\u306f\u73fe\u5b58\u3059\u308b\uff1f",
+		"positive_passages": [
+			"1534073#1"
+		],
+		"negative_passages": [
+			"1534073#0"
+		]
+	},
+	"3450": {
+		"query": "\u30d1\u30e9\u30c9\u30c3\u30af\u30b9\u3068\u3044\u3046\u8a00\u8449\u306e\u8a9e\u6e90\u306f\uff1f",
+		"positive_passages": [
+			"18923#3"
+		],
+		"negative_passages": [
+			"18923#2",
+			"18923#1",
+			"18923#0"
+		]
+	},
+	"3455": {
+		"query": "\u30a2\u30c0\u30e0\u30fb\u30c8\u30ed\u30a4\u30fb\u30c0\u30f3\u306e\u4e3b\u306a\u5b88\u5099\u4f4d\u7f6e\u306f\uff1f",
+		"positive_passages": [
+			"632283#0"
+		],
+		"negative_passages": [
+			"632283#31",
+			"1673368#1",
+			"3892627#1"
+		]
+	},
+	"3470": {
+		"query": "\u516c\u8846\u96fb\u8a71\u306e\u8a2d\u7f6e\u306f\u3044\u3064\u304b\u3089\u59cb\u307e\u3063\u305f",
+		"positive_passages": [
+			"25878#32",
+			"25878#31",
+			"1129152#4"
+		],
+		"negative_passages": [
+			"465708#53",
+			"1129152#3",
+			"25878#37",
+			"25878#41"
+		]
+	},
+	"3491": {
+		"query": "\u30a4\u30a8\u30b9\u30fb\u30ad\u30ea\u30b9\u30c8\u306e\u6700\u5f8c\u306e\u6669\u9910\u306b\u30e6\u30c0\u306f\u53c2\u52a0\u3057\u305f\uff1f",
+		"positive_passages": [
+			"3247521#4"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"3529": {
+		"query": "\u30af\u30ed\u30a2\u30c1\u30a2\u5171\u548c\u56fd\u306f\uff25\uff35\u52a0\u76df\u56fd\uff1f",
+		"positive_passages": [
+			"3049#5",
+			"3049#1"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"3531": {
+		"query": "\u30b8\u30e3\u30b9\u30b3\u304c\u30a4\u30aa\u30f3\u3078\u540d\u79f0\u3092\u5909\u3048\u305f\u306e\u306f\u3044\u3064",
+		"positive_passages": [
+			"2282358#5"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"3538": {
+		"query": "\u9396\u56fd\u306f\u3044\u3064\u7d42\u4e86\u3057\u305f",
+		"positive_passages": [
+			"868864#27"
+		],
+		"negative_passages": [
+			"1202811#2"
+		]
+	},
+	"3551": {
+		"query": "\u81ea\u5df1\u5553\u767a\u672c\u30017\u3064\u306e\u7fd2\u6163\u306e\u8457\u8005\u306f\u3060\u308c",
+		"positive_passages": [
+			"433382#0"
+		],
+		"negative_passages": [
+			"433382#5",
+			"433382#1",
+			"433382#4"
+		]
+	},
+	"3569": {
+		"query": "\u795e\u6238\u306f\u5916\u56fd\u4eba\u5c45\u7559\u5730\u304c\u3042\u3063\u305f\uff1f",
+		"positive_passages": [
+			"223277#16"
+		],
+		"negative_passages": [
+			"223277#18"
+		]
+	},
+	"3618": {
+		"query": "\u5c0f\u8aac\u3001\u30ed\u30ea\u30fc\u30bf\u306e\u8457\u8005\u306e\u540d\u524d\u306f\uff1f",
+		"positive_passages": [
+			"3789175#0"
+		],
+		"negative_passages": [
+			"106602#2"
+		]
+	},
+	"3673": {
+		"query": "\u624b\u585a\u6cbb\u866b\u306e\u300e\u9244\u8155\u30a2\u30c8\u30e0\u300f\u306f\u3044\u3064\u767a\u8868\u3055\u308c\u307e\u3057\u305f\u304b\uff1f",
+		"positive_passages": [
+			"493#17"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"3715": {
+		"query": "\u5b66\u751f\u30d3\u30b6\u3092\u6301\u3064\u5916\u56fd\u4eba\u306f\u65e5\u672c\u3067\u9031\u4f55\u6642\u9593\u50cd\u3051\u308b\uff1f",
+		"positive_passages": [
+			"587943#8"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"3723": {
+		"query": "\u57fc\u7389\u9ad8\u901f\u9244\u9053\u682a\u5f0f\u4f1a\u793e\u306f\u3044\u3064\u8a2d\u7acb\u3057\u305f\uff1f",
+		"positive_passages": [
+			"18072#2"
+		],
+		"negative_passages": [
+			"3442566#1"
+		]
+	},
+	"3742": {
+		"query": "\u7a7a\u6d77\u306e\u63d0\u5531\u3057\u305f\u5b97\u6d3e\u306f\u4f55",
+		"positive_passages": [
+			"3087027#0"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"3762": {
+		"query": "\u30d0\u30a6\u30f3\u30c6\u30a3\u53f7\u306e\u53cd\u4e71\u306f\u3044\u3064\u8d77\u304d\u305f\uff1f",
+		"positive_passages": [
+			"370247#0",
+			"370247#5"
+		],
+		"negative_passages": [
+			"370247#9",
+			"370247#7",
+			"370247#13"
+		]
+	},
+	"3769": {
+		"query": "\u7409\u7403\u6c11\u65cf\u306e\u8a71\u3059\u8a00\u8a9e\u306f\u65e5\u672c\u8a9e\u3068\u5168\u304f\u9055\u3063\u305f\uff1f",
+		"positive_passages": [
+			"188753#65"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"3776": {
+		"query": "\u51b7\u6226\u306f\u4f55\u5e74\u9593\u7d9a\u3044\u305f\uff1f",
+		"positive_passages": [
+			"11650#1"
+		],
+		"negative_passages": [
+			"11650#6",
+			"11650#23"
+		]
+	},
+	"3783": {
+		"query": "\u30d0\u30ed\u30c3\u30af\u98a8\u306e\u4f5c\u54c1\u306e\u7279\u5fb4\u306f\u306a\u3093\u3067\u3059\u304b\uff1f",
+		"positive_passages": [
+			"79519#0"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"3795": {
+		"query": "\u8131\u6bdb\u75c7\u306f\u6539\u5584\u3059\u308b\uff1f",
+		"positive_passages": [
+			"1192651#1",
+			"1192651#10"
+		],
+		"negative_passages": [
+			"1192651#33"
+		]
+	},
+	"3796": {
+		"query": "\u30b3\u30df\u30c3\u30af\u30de\u30fc\u30b1\u30c3\u30c8\u306f\u3001\u65e5\u672c\u4ee5\u5916\u306b\u3082\u3042\u308a\u307e\u3059\u304b\uff1f",
+		"positive_passages": [
+			"13552#4"
+		],
+		"negative_passages": [
+			"13552#6"
+		]
+	},
+	"3806": {
+		"query": "\u81ea\u6c11\u515a\u306f\u3044\u3064\u7d50\u6210\u3057\u305f\uff1f",
+		"positive_passages": [
+			"290109#23"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"3820": {
+		"query": "\u6e80\u5dde\u56fd\u304c\u5efa\u56fd\u3057\u305f\u306e\u306f\u3044\u3064",
+		"positive_passages": [
+			"868864#39",
+			"341717#0"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"3852": {
+		"query": "\u51b7\u6226\u3068\u306f\u306a\u3093\u3067\u3059\u304b\uff1f",
+		"positive_passages": [
+			"11650#0",
+			"11650#1"
+		],
+		"negative_passages": [
+			"11650#6",
+			"11650#27"
+		]
+	},
+	"3873": {
+		"query": "\u30ef\u30b7\u30f3\u30c8\u30f3D.C.\u306f\u5dde\u3067\u3059\u304b\uff1f",
+		"positive_passages": [
+			"12494#7",
+			"12494#3"
+		],
+		"negative_passages": [
+			"12494#14",
+			"12494#32"
+		]
+	},
+	"3881": {
+		"query": "\u4eba\u985e\u304c\u706b\u3092\u4f7f\u3044\u59cb\u3081\u305f\u306e\u306f\u3044\u3064",
+		"positive_passages": [
+			"173451#12"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"3894": {
+		"query": "\u30eb\u30bf\u30fc\u306f\u3044\u3064\u30d7\u30ed\u30c6\u30b9\u30bf\u30f3\u30c8\u3092\u7acb\u3061\u4e0a\u3052\u305f\uff1f",
+		"positive_passages": [
+			"2081927#5"
+		],
+		"negative_passages": [
+			"2081927#6"
+		]
+	},
+	"3931": {
+		"query": "\u30d5\u30a9\u30fc\u30af\u30e9\u30f3\u30c9\u7d1b\u4e89\u5f53\u6642\u306e\u30a4\u30ae\u30ea\u30b9\u306e\u9996\u76f8\u306f\u8ab0\uff1f",
+		"positive_passages": [
+			"2448635#2"
+		],
+		"negative_passages": [
+			"2448635#10"
+		]
+	},
+	"3934": {
+		"query": "J\u30fbR\u30fbR\u30fb\u30c8\u30fc\u30eb\u30ad\u30f3\u306e\u51fa\u8eab\u306f\u3069\u3053\uff1f",
+		"positive_passages": [
+			"15661#0",
+			"15661#3"
+		],
+		"negative_passages": [
+			"15661#5",
+			"15661#6",
+			"15661#14",
+			"15661#2",
+			"15661#15"
+		]
+	},
+	"3935": {
+		"query": "\u30a8\u30ea\u30fc\u9244\u9053\u306f\u5efa\u8a2d\u3057\u305f",
+		"positive_passages": [
+			"2392553#3"
+		],
+		"negative_passages": [
+			"2392553#13",
+			"2392553#11",
+			"2392553#6"
+		]
+	},
+	"3960": {
+		"query": "\u300e\u5a3c\u5a66\u3068\u6dd1\u5973\u300f\u306e\u4e3b\u6f14\u3092\u52d9\u3081\u305f\u306e\u306f\u8ab0",
+		"positive_passages": [
+			"2058165#1"
+		],
+		"negative_passages": [
+			"2058165#0",
+			"2058165#2"
+		]
+	},
+	"3982": {
+		"query": "\u751f\u614b\u5b66\u3068\u306f\u3069\u306e\u3088\u3046\u306a\u5b66\u554f\u3067\u3059\u304b\uff1f",
+		"positive_passages": [
+			"32922#27"
+		],
+		"negative_passages": [
+			"32922#47"
+		]
+	},
+	"3990": {
+		"query": "\u30ab\u30fc\u30e0\u30e4\u30cd\u30c4\u30a3\uff1d\u30dd\u30b8\u30fc\u30ea\u30b7\u30af\u30a3\u30a4 \u306e\u9762\u7a4d\u306f\uff1f",
+		"positive_passages": [
+			"1567781#0"
+		],
+		"negative_passages": [
+			"1567781#1",
+			"1567781#8",
+			"1567781#5"
+		]
+	},
+	"3992": {
+		"query": "\u30c1\u30e5\u30a6\u30b4\u30af\u30e2\u30af\u30ba\u30ac\u30cb\u306f\u990a\u6b96\u3067\u304d\u308b\uff1f",
+		"positive_passages": [
+			"426898#10",
+			"426898#13",
+			"426898#11"
+		],
+		"negative_passages": [
+			"426898#15",
+			"426898#8",
+			"426898#9",
+			"426898#14"
+		]
+	},
+	"4036": {
+		"query": "\u6804\u990a\u5b66\u306e\u5148\u99c6\u8005\u306f\u8ab0",
+		"positive_passages": [
+			"245748#6"
+		],
+		"negative_passages": [
+			"1924904#0"
+		]
+	},
+	"4039": {
+		"query": "\u30a4\u30bf\u30ea\u30a2\u738b\u56fd\u306e\u521d\u4ee3\u56fd\u738b\u306f\u8ab0",
+		"positive_passages": [
+			"127162#5"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"4050": {
+		"query": "\u8695\u751f\u7523\u304c\u65e5\u672c\u3067\u59cb\u307e\u3063\u305f\u306e\u306f\u3044\u3064",
+		"positive_passages": [
+			"2723211#15"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"4055": {
+		"query": "\u30c7\u30ab\u30f3\u9ad8\u539f\u306f\u9762\u7a4d\u4f55\u33a2\u3067\u3059\u304b\uff1f",
+		"positive_passages": [
+			"1174320#21"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"4086": {
+		"query": "\u30b8\u30e7\u30fc\u30b8\u6e56\u306e\u6226\u3044\u306b\u3088\u308b\u52dd\u8005\u306f\uff1f",
+		"positive_passages": [
+			"2475187#3"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"4140": {
+		"query": "\u30bf\u30a4\u306e\u9996\u90fd\u306f\u3069\u3053",
+		"positive_passages": [
+			"101448#1"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"4150": {
+		"query": "\u5f8c\u918d\u9190\u5929\u7687\u306e\u7236\u89aa\u306e\u540d\u524d\u306f\uff1f",
+		"positive_passages": [
+			"11514#14"
+		],
+		"negative_passages": [
+			"88093#0"
+		]
+	},
+	"4151": {
+		"query": "\u4e16\u754c\u6700\u5927\u306e\u30c0\u30e0\u306f\u4f55",
+		"positive_passages": [
+			"20149#31",
+			"20149#17"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"4158": {
+		"query": "\u30a2\u30c3\u30b7\u30ea\u30a2\u306f\u73fe\u5728\u3069\u3053\u306e\u56fd\u306b\u3042\u308b\uff1f",
+		"positive_passages": [
+			"366639#0"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"4204": {
+		"query": "\u65e5\u672c\u304c\u97d3\u56fd\u3092\u652f\u914d\u3057\u305f\u306e\u306f\u3044\u3064",
+		"positive_passages": [
+			"958578#0"
+		],
+		"negative_passages": [
+			"958578#2"
+		]
+	},
+	"4242": {
+		"query": "\u30a2\u30ec\u30af\u30b5\u30f3\u30c0\u30fc\u30fb\u30ab\u30eb\u30c0\u30fc\u306f\u3044\u3064\u751f\u307e\u308c\u305f\uff1f",
+		"positive_passages": [
+			"415135#4",
+			"415135#0"
+		],
+		"negative_passages": [
+			"415135#1",
+			"415135#5",
+			"415135#7"
+		]
+	},
+	"4253": {
+		"query": "\u30b9\u30de\u30fc\u30c8\u30d5\u30a9\u30f3\u306b\u30aa\u30da\u30ec\u30fc\u30c6\u30a3\u30f3\u30b0\u30b7\u30b9\u30c6\u30e0\u306f\u642d\u8f09\u3055\u308c\u3066\u3044\u308b\uff1f",
+		"positive_passages": [
+			"345197#33"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"4282": {
+		"query": "\u30ab\u30f3\u30b6\u30b9\u30b7\u30c6\u30a3\u304c\u8a2d\u7acb\u3055\u308c\u305f\u306e\u306f\u3044\u3064",
+		"positive_passages": [
+			"1039962#11"
+		],
+		"negative_passages": [
+			"1039962#14",
+			"1039962#16"
+		]
+	},
+	"4289": {
+		"query": "\u5b87\u7530\u65b0\u592a\u90ce\u306e\u51fa\u8eab\u5927\u5b66\u306f\u4f55",
+		"positive_passages": [
+			"732154#1"
+		],
+		"negative_passages": [
+			"732154#0"
+		]
+	},
+	"4299": {
+		"query": "\u6b27\u5dde\u9023\u5408\u52a0\u76df\u56fd\u306f\u4f55\u304b\u56fd\u3067\u3059\u304b\uff1f",
+		"positive_passages": [
+			"3049#0"
+		],
+		"negative_passages": [
+			"3049#1"
+		]
+	},
+	"4326": {
+		"query": "\u30bf\u30f3\u30d1\u30af\u8cea\u306f\u4f55\u304b\u3089\u751f\u6210\u3055\u308c\u308b",
+		"positive_passages": [
+			"6471#32"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"4329": {
+		"query": "\u77f3\u30ce\u68ee\u7ae0\u592a\u90ce\u306e\u51fa\u8eab\u306f\u3069\u3053\uff1f",
+		"positive_passages": [
+			"2933034#0"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"4336": {
+		"query": "\u30b3\u30ed\u30e9\u30c9\u5dde\u30c7\u30f3\u30d0\u30fc\u306e\u30e6\u30cb\u30aa\u30f3\u99c5\u306f\u3044\u3064\u5b8c\u6210\u3057\u305f\uff1f",
+		"positive_passages": [
+			"41563#45"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"4358": {
+		"query": "\u65e5\u672c\u306e\u30d9\u30d3\u30fc\u30d6\u30fc\u30e0\u306e\u304d\u3063\u304b\u3051\u306f\uff1f",
+		"positive_passages": [
+			"177473#1"
+		],
+		"negative_passages": [
+			"177473#2",
+			"177473#5"
+		]
+	},
+	"4360": {
+		"query": "\u30a2\u30e1\u30ea\u30ab\u56fd\u7acb\u30d5\u30a3\u30eb\u30e0\u767b\u9332\u7c3f\u3068\u306f\u3069\u3053\u306b\u4fdd\u7ba1\u3055\u308c\u3066\u3044\u307e\u3059\u304b\uff1f",
+		"positive_passages": [
+			"3005799#8"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"4398": {
+		"query": "\u30da\u30ca\u30f3\u5cf6\u306f\u3069\u3053\u306e\u56fd\u306b\u5c5e\u3059\u308b\uff1f",
+		"positive_passages": [
+			"216702#0"
+		],
+		"negative_passages": [
+			"216702#5"
+		]
+	},
+	"4404": {
+		"query": "\u30a8\u30c9\u30ef\u30fc\u30c9\u30fb\u30c0\u30b0\u30e9\u30b9\u30fb\u30db\u30ef\u30a4\u30c8\u306e\u51fa\u8eab\u306f\u3069\u3053",
+		"positive_passages": [
+			"1835309#1",
+			"1835309#0"
+		],
+		"negative_passages": [
+			"1835309#2",
+			"927394#0",
+			"1835309#16",
+			"1835309#19",
+			"1835309#3",
+			"1835309#15",
+			"1835309#13"
+		]
+	},
+	"4427": {
+		"query": "U\u30dc\u30fc\u30c8\u3068\u306f\u3069\u306e\u3088\u3046\u306a\u30dc\u30fc\u30c8\u3067\u3059\u304b\uff1f",
+		"positive_passages": [
+			"57710#0",
+			"57710#3"
+		],
+		"negative_passages": [
+			"57710#15",
+			"57710#6",
+			"57710#14",
+			"57710#9"
+		]
+	},
+	"4474": {
+		"query": "\u30a4\u30f3\u30c9\u30cd\u30b7\u30a2\u306e\u9996\u90fd\u306f\u3069\u3053",
+		"positive_passages": [
+			"8601#0"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"4487": {
+		"query": "\u5275\u4fa1\u5b66\u4f1a\u306f\u4ecf\u6559\u7cfb\uff1f",
+		"positive_passages": [
+			"387684#18"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"4502": {
+		"query": "\u81ea\u52d5\u8eca\u6559\u7fd2\u6240\u306b\u901a\u308f\u306a\u304f\u3066\u3082\u904b\u8ee2\u514d\u8a31\u3092\u53d6\u5f97\u3059\u308b\u3053\u3068\u306f\u3067\u304d\u308b\uff1f",
+		"positive_passages": [
+			"95403#8"
+		],
+		"negative_passages": [
+
+		]
+	},
+	"4539": {
+		"query": "\u30c0\u30d3\u30c3\u30c9\u30fb\u30a2\u30eb\u30d5\u30a1\u30ed\u30fb\u30b7\u30b1\u30a4\u30ed\u30b9\u306e\u51fa\u8eab\u306f\u3069\u3053",
+		"positive_passages": [
+			"1318703#4",
+			"1318703#0"
+		],
+		"negative_passages": [
+			"1318703#17",
+			"1318703#3",
+			"1318703#16",
+			"1318703#2",
+			"1318703#5",
+			"1318703#6",
+			"1318703#1",
+			"1318703#15"
+		]
+	},
+	"4624": {
+		"query": "\u767a\u898b\u3055\u308c\u305f\u4e2d\u3067\u4e00\u756a\u660e\u308b\u3044\u6052\u661f\u306f\u4f55\uff1f",
+		"positive_passages": [
+			"31480#0"
+		],
+		"negative_passages": [
+
+		]
+	}
+}
